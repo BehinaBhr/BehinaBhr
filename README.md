@@ -30,6 +30,7 @@ const behina = {
 **Learning new things gives my life meaning**, whether through **feedback from others** or **self-study online**.
 
 ### 🦾 Currently working on:
+![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=nextdotjs) 
 ![Jest](https://img.shields.io/badge/Jest-%23C21325?style=flat-square&logo=jest&logoColor=white) ![React Testing Library](https://img.shields.io/badge/React_Testing_Library-%23E33332?style=flat-square&logo=testing-library&logoColor=white)  ![Amazon Web Services (AWS)](https://img.shields.io/badge/AWS-%23232F3E?style=flat-square&logo=amazon-aws&logoColor=white)  ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack) ![GitLab](https://img.shields.io/badge/GitLab-FFFFFF?style=flat-square&logo=gitlab) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 
 
