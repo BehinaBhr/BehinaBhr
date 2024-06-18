@@ -6,7 +6,11 @@ I'm **Behina Bahramsari**.
 
 **Full Stack Software Developer** | Graduate [@BrainStation](https://brainstation.io/online/software-engineering-bootcamp) | BSc Psychology  
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jayraj-roshan/)](https://www.linkedin.com/in/behinabahramsari/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@jayrajroshan1@gmail.com)](mailto:mail@behinabahramsari@gmail.com) [![](https://img.shields.io/badge/-GitHub-%23181717?style=flat-square&logo=github)](https://github.com/BehinaBhr) [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/roshanjayraj/)](https://www.instagram.com/be_bhr/) [![Portfolio Badge](https://img.icons8.com/ios/20/portfolio.png)](https://github.com/BehinaBhr/portfolio)[![Portfolio Badge](https://img.shields.io/badge/Portfolio-%23ffffff?style=flat-square&logoColor=white)](https://github.com/BehinaBhr/portfolio)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jayraj-roshan/)](https://www.linkedin.com/in/behinabahramsari/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@jayrajroshan1@gmail.com)](mailto:mail@behinabahramsari@gmail.com) [![GitHub Badge](https://img.shields.io/badge/-GitHub-%23181717?style=flat-square&logo=github)](https://github.com/BehinaBhr)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/roshanjayraj/)](https://www.instagram.com/be_bhr/) 
+[![Portfolio Icon](https://img.icons8.com/ios/20/portfolio.png)](https://github.com/BehinaBhr/portfolio)[![Portfolio Badge](https://img.shields.io/badge/Basic%20Portfolio-%23ffffff?style=flat-square&logoColor=white)](https://github.com/BehinaBhr/portfolio)
+[![Portfolio Badge](https://img.shields.io/badge/Visit%20My%20React%20Portfolio-white?style=plastic)](https://behinabhr.github.io/)
 
 
 ### A little more about me... 
