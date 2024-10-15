@@ -94,11 +94,11 @@ const behina = {
 
 
 ### 💼 Portfolio
-Developing [Procket](https://procket.vercel.app/), a productivity app for procrastinators 🚀, as my capstone project over three weeks, along with effectively communicating 👥💬 with non-technical clients (like architects 🏗️) in my recent freelance project for VPA , reflect my diligence, passion, and ability to code efficiently while delivering functional projects 🏁 within tight deadlines ⏳.They also highlight my focus on identifying and translating user needs into effective solutions 🎯.
+Developing [Procket](https://procket.vercel.app/), a productivity app for procrastinators 🚀, as my capstone project over three weeks, along with effectively communicating 👥💬 with non-technical clients (like architects 🏗️) in my recent freelance project for VPA, reflect my diligence, passion, and ability to code efficiently while delivering functional projects 🏁 within tight deadlines ⏳. They also highlight my focus on identifying and translating user needs into effective solutions 🎯.
 
 Procket is dear to my heart as my first application of meaningfully blending psychology and tech 🧠⚙️, addressing putting things off, an issue all might deal with daily 🛟. I invite you to join my [capstone presentation](https://youtu.be/Dn2GVzKBy1E?si=G5Tr5oPHLKvbrxz9) 🎬 at demo day and take a closer look 🔍 at my [code](https://github.com/BehinaBhr/behina-bahramsari-procket).
 
-For more details on my work experience and view my project demos, check out my [portfolio](https://behinabhr.github.io/).
+For more details on my work experience and to view my project demos, check out my [portfolio](https://behinabhr.github.io/).
 
 
 ### 🤝🏻 Open to work 
