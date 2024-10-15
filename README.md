@@ -9,8 +9,9 @@ a **Full Stack Software Developer**
 Part-Time Computer Science Student [@TWU](https://www.twu.ca/) | Graduate Diploma Software Engineering [@BrainStation](https://brainstation.io/online/software-engineering-bootcamp) | BSc Psychology [@BASU](https://basu.ac.ir/)  
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jayraj-roshan/)](https://www.linkedin.com/in/behinabhr/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:behinabahramsari@gmail.com)](mailto:behinabahramsari@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=gmail&logoColor=white)](mailto:behinabahramsari@gmail.com)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-%23181717?style=flat-square&logo=github)](https://github.com/BehinaBhr)
+[![YouTube Badge](https://img.shields.io/badge/-YouTube-%23FF0000?style=flat-square&logo=YouTube&logoColor=white&link=https://youtube.com/playlist?list=PL4jE5I3PT6vHkansW-sgvIFMSqBZbyEEP&si=ByQOvsjZTEM0x7Yi)](https://youtube.com/playlist?list=PL4jE5I3PT6vHkansW-sgvIFMSqBZbyEEP&si=ByQOvsjZTEM0x7Yi)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/roshanjayraj/)](https://www.instagram.com/be_bhr/) 
 [![Portfolio Icon](https://img.icons8.com/ios/20/portfolio.png)](https://github.com/BehinaBhr/portfolio)[![Portfolio Badge](https://img.shields.io/badge/Portfolio-%23ffffff?style=flat-square&logoColor=white)](https://behinabhr.github.io/)
 
