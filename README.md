@@ -83,7 +83,7 @@ const behina = {
 **Learning new things** and **tackling new challenges** 🥊 truly gives my life meaning, whether through **feedback from others** or **self-study online**.
 
 ### 🦾 Currently working on 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=ffffff)
 ![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=nextdotjs&logoColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C?style=flat-square&logo=bootstrap&logoColor=white)
@@ -92,7 +92,7 @@ const behina = {
 ![Jest](https://img.shields.io/badge/Jest-%23C21325?style=flat-square&logo=jest&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-%23E23237?style=flat-square&logo=angular&logoColor=white)
-
+![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
 ### 💼 Portfolio
 Developing [Procket](https://procket.vercel.app/), a productivity app for procrastinators 🚀, as my capstone project over three weeks, along with effectively communicating 👥💬 with non-technical clients (like architects 🏗️) in my recent freelance project for VPA, reflect my diligence, passion, and ability to code efficiently while delivering functional projects 🏁 within tight deadlines ⏳. They also highlight my focus on identifying and translating user needs into effective solutions 🎯.
