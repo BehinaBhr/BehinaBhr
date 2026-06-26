@@ -21,6 +21,14 @@ My work has been shaped by:
 - contributing to team-based projects, hackathons, and client-facing work
 - learning continuously through study, mentoring, and real-world projects
 
+```javascript
+const behina = {
+  pronouns: "she" | "her",
+  skills: [Diligent, Problem-Solving, Fast-Paced Customer-Facing Experience, Teamwork, Leadership],
+  hobbies: [Singing, Guitar Strumming, Puzzle-Solving, Exploring Places & Flavors, Learning New Things]
+}
+```
+
 ## 🛠️ Tech stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
