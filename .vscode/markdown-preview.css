@@ -1,0 +1,62 @@
+body.vscode-body {
+  background-color: #ffffff;
+  color: #1f2328;
+}
+
+body.vscode-body a {
+  color: #0969da;
+}
+
+body.vscode-body a[href="https://behinabhr.github.io/experience"] {
+  display: inline-block;
+  text-decoration: none;
+}
+
+body.vscode-body a[href="https://behinabhr.github.io/experience"] kbd {
+  background-color: #f3f4f6;
+  border-color: #9ca3af;
+  box-shadow: 0 3px 0 #6b7280;
+  color: #000000;
+  display: inline-block;
+  transition: box-shadow 120ms ease, transform 120ms ease;
+}
+
+body.vscode-body a[href="https://behinabhr.github.io/experience"]:hover {
+  text-decoration: none;
+}
+
+body.vscode-body a[href="https://behinabhr.github.io/experience"]:hover kbd {
+  box-shadow: 0 1px 0 #6b7280;
+  transform: translateY(2px);
+}
+
+body.vscode-body a[href="https://behinabhr.github.io/experience"]:active kbd {
+  box-shadow: none;
+  transform: translateY(3px);
+}
+
+body.vscode-body h1,
+body.vscode-body h2 {
+  border-bottom-color: #d1d9e0;
+}
+
+body.vscode-body code,
+body.vscode-body pre {
+  background-color: #f6f8fa;
+  color: #1f2328;
+}
+
+body.vscode-body blockquote {
+  color: #59636e;
+  border-left-color: #d1d9e0;
+}
+
+body.vscode-body table tr,
+body.vscode-body table tr:nth-child(2n) {
+  background-color: #ffffff;
+}
+
+body.vscode-body table th,
+body.vscode-body table td {
+  border-color: #d1d9e0;
+}
